@@ -1,0 +1,10 @@
+
+
+
+cd /Users/erickarkay/Desktop/Julies_Class
+git init
+git add Kay_E_HW1.txt
+git commit -m "Biol 792 HW 1 added to github repo"
+git branch -M main
+git remote add origin https://github.com/wanderrrin/Biol792.git
+git push -u origin main
